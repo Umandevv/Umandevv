@@ -1,0 +1,9 @@
+{
+    "token": "BOT_TOKENINIZ",
+    "clientId": "BOT_CLIENT_ID",
+    "guildId": "SUNUCU_ID",
+    "categoryId": "KATEGORI_ID",
+    "channelId": "KANAL_ID",
+    "supportRoleId": "YETKILI_ROLU_ID"
+  }
+  
